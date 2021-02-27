@@ -9,6 +9,23 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=aleksandrowmike)
 
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+<img align="right" alt="GIF" src="https://github.com/aleksandrowmike/aleksandrowmike/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/aleksandrowmike);
+- 💬 Ask me about anything, I am happy to help;
+- 📝 I regulary write articles on [medium](https://medium.com/@gor.mihal);
+- 📫 How to reach me: gor.mihal@gmail.com;
+- 📝 [Resume](https://aleksandrowmike.github.io/Gorbachev_Resume.pdf).
+
+</br>
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
