@@ -8,3 +8,10 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/gormikg)
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=aleksandrowmike)
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleksandrowmike&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrowmike&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
