@@ -9,6 +9,10 @@
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=aleksandrowmike)
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 📈 **My GitHub Stats:**
 
 <p>
